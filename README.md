@@ -5,7 +5,7 @@ The game challenges players to memorize and repeat a sequence of colors that gro
 
 ## Play Live Demo
 
-Open the project in your browser, press any key to start, and enjoy playing!
+- Link - https://sp5-official.github.io/Simon-Game/simon.html
 
 ## Features ✨
 
